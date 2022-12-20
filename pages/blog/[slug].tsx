@@ -2,6 +2,7 @@ import fs from 'fs'
 import ReactMarkdown from 'react-markdown'
 import matter from 'gray-matter'
 import Head from 'next/head'
+import Layout from '../../src/components/Layout'
 
 type FrontMatter = {
   title: string
@@ -14,27 +15,26 @@ type BlogProps = {
 }
 
 export default function Blog({ frontMatter, markdown }: BlogProps) {
-  console.log(frontMatter)
-  console.log(markdown)
-
   if (!frontMatter) {
     return <></>
   }
   return (
-    <div>
-      <Head>
-        <title>Test Blog | {frontMatter.title}</title>
-      </Head>
-      <h1>{frontMatter.title}</h1>
-      <span>{frontMatter.date}</span>
-      <hr />
-      <ReactMarkdown>{markdown}</ReactMarkdown>
-    </div>
+    <Layout>
+      <div>
+        <Head>
+          <title>Test Blog | {frontMatter.title}</title>
+        </Head>
+        <article>
+          <h1>{frontMatter.title}</h1>
+          <ReactMarkdown>{markdown}</ReactMarkdown>
+        </article>
+      </div>
+    </Layout>
   )
 }
 
 export const getStaticPaths = async () => {
-  const filesInProjects = fs.readdirSync('./src/test-blogs')
+  const filesInProjects = fs.readdirSync('./src/blogs')
 
   const paths = filesInProjects.map((file) => {
     const filename = file.slice(0, file.indexOf('.'))
@@ -53,14 +53,10 @@ export const getStaticProps = async ({
 }: {
   params: { slug: string }
 }) => {
-  console.log('Params ', params.slug)
-
   const fileContent = await matter(
-    fs.readFileSync(`./src/test-blogs/${params.slug}.md`, 'utf8')
+    fs.readFileSync(`./src/blogs/${params.slug}.md`, 'utf8')
   )
   const frontmatterData = fileContent.data
-  console.log('Data: ', frontmatterData)
-
   const markdown = fileContent.content
 
   return {
