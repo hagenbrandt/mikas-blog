@@ -1,5 +1,5 @@
 ---
-title: Rechercheche-Phase und Ideen wirken lassen
+title: Recherche-Phase und Ideen wirken lassen
 date: December 16, 2022 12:07 AM
 ---
 Mittlerweile habe ich meine kreativen Prozesse erkannt, muss mich allerdings immer noch daran erinnern nichts zu erzwingen. Nach einem längeren Schreibfluss hörte das Schreiben auf einmal auf. Weil es nun darum ging herauszufinden in welchen verrückten und umweltpolitischen Abgrund der ermordete verwickelt war. Es dauerte zwei Wochen. Ich recherchierte zu erst wirtschaftliche und politische Themen die Spanien und Deutschland verbinden. Ich lernte viel, aber es wirkte nicht als hätte ich mein Thema schon gefunden. Der Schlüssel lag in meinem eigenen Leben. Abgesehen, das ich mich mit Freunden ausgetauscht habe, hat mein Interesse in meinem realen Leben mir den Impuls gegeben, welches Thema ich wählen sollte. Aber es ist erst im Entstehen. Das finale Thema ist noch nicht gefunden. ich lasse wirken, ich lasse gehen, ich lasse kommen, weitere Ideen. Austausch hilft. Das simple erzählen meines kreativen Prozesses, hat mich angestoßen auf weitere Ideen zu kommen.
