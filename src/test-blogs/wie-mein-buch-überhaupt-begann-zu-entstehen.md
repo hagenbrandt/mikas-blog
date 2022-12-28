@@ -23,3 +23,7 @@ Alles Arbeit und Training. Nur wird man leider nicht für die Arbeit an sich sel
 Das zieht mich zwischendurch natürlich runter, denn Hamburg ist teurer als Berlin. Und in Berlin habe ich fünf Jahre gelebt und da konnte ich viel für wenig Geld bekommen. Wahrscheinlich ist es in Berlin zur Zeit auch nicht besser als in Hamburg, aber meine Heimatstadt ist einfach unfassbar teuer und vieles was ich in Berlin unternommen habe, tue ich nicht in Hamburg.  
 
 Aber ich schweife ab. Meine Lebensumstände sind jedoch auch ein Faktor der mich zwischendurch vom Schreibprozess abhält.
+
+
+
+**Fußnote:** ADHS eine der Krankheiten, die eigentlich keine Krankheit ist, sondern nur in unserer kapitalistischen, industrialisierten Gesellschaft als Krankheit definiert werden muss. Im ursprünglichen Gruppengefüge, ist ein ADHS Charakter genauso normal wie eine Faultierperson oder ein kontrollierter einfach den Regeln folgender Mensch der nichts hinterfragt. ADHS ist nur wichtig zu erkennen, wenn der energetische impulsive Mensch noch nicht seinen Platz in der Gesellschaft oder seinem Leben gefunden hat und dadurch aneckt, negativ auffällt und unglücklich wird.
